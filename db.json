@@ -1,0 +1,28 @@
+{
+  "posts": [
+      {
+          "id":1,
+          "name": "burger king",
+          "location": "newtown",
+          "city": "Kolkata"
+      },
+      {
+          "id":2,
+          "name": "kfc",
+          "location": "howrah",
+          "city": "Kolkata"
+      },
+      {
+          "id":3,
+          "name": "mcd",
+          "location": "newtown",
+          "city": "Kolkata"
+      },
+      {
+          "id":4,
+          "name": "dominos",
+          "location": "saltlake",
+          "city": "Kolkata"
+      }
+  ]
+}
